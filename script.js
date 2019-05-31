@@ -1,2 +1,2 @@
 console.log("このメッセージがConsoleに表示されます");
-window.alert(ようこそ)
+window.alert('ようこそ')

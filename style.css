@@ -7,12 +7,47 @@ body {
     font-family: "Avenir Next";
 }
 header {
-    font-size: 20px;
+    font-size: 40px;
     background-color: #26d0c9;
     color: #fff;
-    height: 90px;
+    height: 70px;
     padding:10px;
+}
+main {
+    padding: 10px;
 }
 .header-logo {
     padding:3px;
+}
+.mainmassage{
+    margin-bottom: 10px;
+}
+.mainmassage h1{
+    font-size: 20px;
+    margin-bottom: 10px;
+}
+.mystory h2{
+    font-size:18px;
+    border-bottom: #26d0c9 solid 2px;
+    margin-bottom: 10px;
+}
+.production h3{
+    font-size: 18px;
+    border-bottom: #26d0c9 solid 2px;
+    margin-bottom: 10px;
+}
+.extra h4{
+    font-size: 18px;
+    border-bottom: #26d0c9 solid 2px;
+    margin-bottom: 10px;
+}
+.button {
+    text-align: center;
+    padding:30px;
+}
+.donttouch{
+    
+    color:red;
+    font-size: 1.2em;
+
 }

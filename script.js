@@ -1,4 +1,7 @@
 console.log("このメッセージがConsoleに表示されます");
-while(true){
-    window.alert('ようこそ')
+function OnButtonClick(){
+    window.alert('押さないでって言ったのに...');
+    while(true){
+        window.alert('ようこそ');
+    }
 }
